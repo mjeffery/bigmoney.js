@@ -1,0 +1,10 @@
+{
+	"name":"BigMoney",
+	"version": "0.0.1",
+	"output":"dist/BigMoney.js",
+	"main": "index.js",
+	"dependencies": {
+		"underscore": "_",
+		"bigdecimal": "bigdecimal"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bigmoney",
+  "version": "0.0.1",
+  "description": "Javascript port of the arbitrary precision Joda Money Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bigdecimal",
+    "bigmoney",
+    "money",
+    "currency",
+    "browser"
+  ],
+  "author": "Derek Nelson",
+  "license": "BSD",
+  "dependencies": {
+    "bigdecimal": "~0.6.1",
+    "underscore": "~1.4.2"
+  }
+}
